@@ -18,8 +18,8 @@
 ✅ 每天 10 万次额度，个人用不完  
 ✅ 真正的微信原生弹窗 + 声音提醒  
 ✅ 支持多用户  
-✅ 提供免费服务[https://push.hzz.cool](https://push.hzz.cool)（请勿滥用）  
-✅ 跳转稳定，自带消息详情页面 (默认使用[https://push.hzz.cool/detail](https://push.hzz.cool/detail), 可自己部署后使用参数替换)
+✅ 提供免费服务[https://push.hzzio.top](https://push.hzzio.top)（请勿滥用）  
+✅ 跳转稳定，自带消息详情页面 (默认使用[https://push.hzzio.top/detail](https://push.hzzio.top/detail), 可自己部署后使用参数替换)
 
 ## ⚠️ 部署条件
 
